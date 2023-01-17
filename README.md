@@ -14,3 +14,4 @@
 14. git branch / git branch [branch_name] / git branch -d [branch_name] - текущая ветка / создание ветки / удаление ветки
 15. git chekout [branch_name] - переключение веток
 16. git pull [rep_link] [branch_name] - обновление ветки с gitHub
+17. git merge [branch_name] - слияние веток
