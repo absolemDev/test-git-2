@@ -11,6 +11,6 @@
 11. git commit -m "comment" - запись изменений
 12. git log / git log --oneline - список комитов
 13. git push [rep_link] [branch_name] - отправка ветки на gitHub
-14. git branch / git branch [branch_name] - текущая ветка / создание ветки
+14. git branch / git branch [branch_name] / git branch -d [branch_name] - текущая ветка / создание ветки / удаление ветки
 15. git chekout [branch_name] - переключение веток
 16. git pull [rep_link] [branch_name] - обновление ветки с gitHub
